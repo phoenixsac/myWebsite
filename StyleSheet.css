@@ -11,12 +11,11 @@
     align-items:center;
 }
 
-img-style {
+.img-style {
     border-radius: 50%;
     box-shadow: #004f72 3px 3px 8px;
     margin-top: 2%;
     align-self: center;
-   
     max-height: 250px;
     max-width: 250px;
 }
