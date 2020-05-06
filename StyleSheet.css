@@ -1,0 +1,32 @@
+
+.site-header {
+    background-color: #00b1ff;
+    color: #ffffff;
+    font-family: 'Baloo Bhaina';
+    height: 100vh;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+/*.img-style {
+    border-radius: 50%;
+    box-shadow: #004f72 3px 3px 8px;
+    margin-top: 2%;
+    align-self: center;
+   
+    max-height: 250px;
+    max-width: 250px;
+}*/
+
+.header-content{
+    align-content:center;
+    margin:2%
+}
+
+.body-color {
+    background-color: #00b1ff;
+    margin:0;
+}
